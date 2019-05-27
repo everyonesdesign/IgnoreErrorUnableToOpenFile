@@ -1,4 +1,4 @@
-# IgnoreSearchNotAbleToOpen
+# IgnoreErrorUnableToOpenFile
 
 Plugin for Sublime Text 3 preventing "Files that are unable to open" error output in search results.
 
