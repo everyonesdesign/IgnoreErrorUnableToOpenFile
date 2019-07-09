@@ -6,4 +6,5 @@ See [related discussion](https://forum.sublimetext.com/t/dont-show-files-that-ar
 
 ## Usage
 
-Just install the plugin and you'll never see the error messages!
+- Install "Ignore Unable to Open File Error" package via Package Control
+- Enjoy!
